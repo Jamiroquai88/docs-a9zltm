@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-duitk4.hartawin.online/sitemap.xml
